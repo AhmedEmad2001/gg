@@ -1,28 +1,28 @@
 * {
-    box-sizing: border-box;
-   }
-  body{margin:0;
-    font-family:Arial;
-    padding:  0px;
-    background-color: rgb(84, 165, 135); 
-    font-size: 20px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    background-image: url("chess1.jpg") ; 
-    background-repeat:round;
-  }
-  
-  .header {
-    padding: 0.5px;
-    text-align: center; 
-    color: #ddd;
-    background-color: #394449;
-    background-image: url("chess_back.jpg") ; 
-    background-repeat:round;
-  }
-  
-  .header h1 {
-    font-size: 50px;
-  }
+  box-sizing: border-box;
+ }
+body{margin:0;
+  font-family:Arial;
+  padding:  0px;
+  background-color: rgb(84, 165, 135); 
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-image: url("chess1.jpg") ; 
+  background-repeat:round;
+}
+
+.header {
+  padding: 0.5px;
+  text-align: center; 
+  color: #ddd;
+  background-color: #394449;
+  background-image: url("chess_back.jpg") ; 
+  background-repeat:round;
+}
+
+.header h1 {
+  font-size: 50px;
+}
   .nav {
     overflow: hidden; 
     background-color: rgba(90, 89, 89, 0.7);
